@@ -4,7 +4,7 @@ images:{
     remotePatterns:[
        {
         protocol: 'https',
-        hostname: "images.pixels.com"
+        hostname: "images.pexels.com"
        }
     ]
   }
