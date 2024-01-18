@@ -37,3 +37,7 @@
     font-weight: 300;
     color: gray;
 }
+
+.link {
+    text-decoration: underline;
+}

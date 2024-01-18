@@ -15,7 +15,7 @@ function postCard() {
                 <h1 className={styles.title}>Title</h1>
                 <p className={styles.desc}>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Minus laboriosam natus iusto nulla? Quae, officiis exercitationem possimus pariatur atque cumque inventore aliquid, cupiditate quam facilis, odio qui a vero necessitatibus.</p>
-                <Link href="/blog/post">READ MORE</Link>
+                <Link className={styles.link} href="/blog/post">READ MORE</Link>
             </div>
         </div>
     )
