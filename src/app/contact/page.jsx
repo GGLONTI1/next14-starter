@@ -4,7 +4,7 @@ import styles from './contact.module.css'
 const ContactPage = () => {
   return (
     <div className={styles.container}>
-      <div className={styles.imgcontainer}>
+      <div className={styles.imgContainer}>
         <Image src="/contact.png" alt="" fill className={styles.image}/>
       </div>
       <div className={styles.formContainer}>
